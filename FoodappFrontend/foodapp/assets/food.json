@@ -1,0 +1,1009 @@
+{
+    "products": [
+      {
+        "name": "Apple",
+        "characteristics": {
+          "calorie": 52,
+          "lipid": 0.2,
+          "carbohydrate": 14,
+          "protein": 0.3
+        }
+      },
+      {
+        "name": "Banana",
+        "characteristics": {
+          "calorie": 89,
+          "lipid": 0.3,
+          "carbohydrate": 23,
+          "protein": 1.1
+        }
+      },
+      {
+        "name": "Potato",
+        "characteristics": {
+          "calorie": 77,
+          "lipid": 0.1,
+          "carbohydrate": 17,
+          "protein": 2
+        }
+      },
+      {
+        "name": "Carrot",
+        "characteristics": {
+          "calorie": 41,
+          "lipid": 0.2,
+          "carbohydrate": 10,
+          "protein": 0.9
+        }
+      },
+      {
+        "name": "Broccoli",
+        "characteristics": {
+          "calorie": 55,
+          "lipid": 0.6,
+          "carbohydrate": 11,
+          "protein": 3.7
+        }
+      },
+      {
+        "name": "Chicken",
+        "characteristics": {
+          "calorie": 335,
+          "lipid": 3.6,
+          "carbohydrate": 0,
+          "protein": 27.3
+        }
+      },
+      {
+        "name": "Salmon",
+        "characteristics": {
+          "calorie": 206,
+          "lipid": 13.4,
+          "carbohydrate": 0,
+          "protein": 22.3
+        }
+      },
+      {
+        "name": "Pasta",
+        "characteristics": {
+          "calorie": 131,
+          "lipid": 1.3,
+          "carbohydrate": 25,
+          "protein": 5.2
+        }
+      },
+      {
+        "name": "Rice",
+        "characteristics": {
+          "calorie": 130,
+          "lipid": 0.3,
+          "carbohydrate": 28,
+          "protein": 2.7
+        }
+      },
+      {
+        "name": "Orange",
+        "characteristics": {
+          "calorie": 43,
+          "lipid": 0.2,
+          "carbohydrate": 8.2,
+          "protein": 1
+        }
+      },
+      {
+        "name": "Bread",
+        "characteristics": {
+          "calorie": 265,
+          "lipid": 2.9,
+          "carbohydrate": 49,
+          "protein": 8.5
+        }
+      },
+      {
+        "name": "Egg",
+        "characteristics": {
+          "calorie": 68,
+          "lipid": 4.8,
+          "carbohydrate": 0.6,
+          "protein": 5.5
+        }
+      },
+      {
+        "name": "Cheese",
+        "characteristics": {
+          "calorie": 402,
+          "lipid": 33.1,
+          "carbohydrate": 1.3,
+          "protein": 25
+        }
+      },
+      {
+        "name": "Tomato",
+        "characteristics": {
+          "calorie": 18,
+          "lipid": 0.2,
+          "carbohydrate": 3.9,
+          "protein": 0.9
+        }
+      },
+      {
+        "name": "Cucumber",
+        "characteristics": {
+          "calorie": 16,
+          "lipid": 0.2,
+          "carbohydrate": 3.6,
+          "protein": 0.7
+        }
+      },
+      {
+        "name": "Lettuce",
+        "characteristics": {
+          "calorie": 5,
+          "lipid": 0.1,
+          "carbohydrate": 1,
+          "protein": 0.5
+        }
+      },
+      {
+        "name": "Milk",
+        "characteristics": {
+          "calorie": 61,
+          "lipid": 3.3,
+          "carbohydrate": 4.8,
+          "protein": 3.3
+        }
+      },
+      {
+        "name": "Burger",
+        "characteristics": {
+          "calorie": 250,
+          "lipid": 9.4,
+          "carbohydrate": 31,
+          "protein": 12
+        }
+      },
+      {
+        "name": "Pizza",
+        "characteristics": {
+          "calorie": 285,
+          "lipid": 10.7,
+          "carbohydrate": 36,
+          "protein": 12
+        }
+      },
+      {
+        "name": "Ice Cream",
+        "characteristics": {
+          "calorie": 207,
+          "lipid": 11,
+          "carbohydrate": 24,
+          "protein": 2.8
+        }
+      },
+      {
+        "name": "Grapes",
+        "characteristics": {
+          "calorie": 69,
+          "lipid": 0.2,
+          "carbohydrate": 18,
+          "protein": 0.7
+        }
+      },
+      {
+        "name": "Watermelon",
+        "characteristics": {
+          "calorie": 30,
+          "lipid": 0.2,
+          "carbohydrate": 8,
+          "protein": 0.6
+        }
+      },
+      {
+        "name": "Chocolate",
+        "characteristics": {
+          "calorie": 546,
+          "lipid": 32.4,
+          "carbohydrate": 61,
+          "protein": 5.4
+        }
+      },
+      {
+        "name": "Sushi",
+        "characteristics": {
+          "calorie": 45,
+          "lipid": 0.5,
+          "carbohydrate": 11,
+          "protein": 0.9
+        }
+      },
+      {
+        "name": "Coffee",
+        "characteristics": {
+          "calorie": 2,
+          "lipid": 0.1,
+          "carbohydrate": 0.3,
+          "protein": 0.3
+        }
+      },
+      {
+        "name": "Tea",
+        "characteristics": {
+          "calorie": 2,
+          "lipid": 0,
+          "carbohydrate": 0.3,
+          "protein": 0.1
+        }
+      },
+      {
+        "name": "Avocado",
+        "characteristics": {
+          "calorie": 160,
+          "lipid": 14.7,
+          "carbohydrate": 8.5,
+          "protein": 2
+        }
+      },
+      {
+        "name": "Strawberry",
+        "characteristics": {
+          "calorie": 32,
+          "lipid": 0.3,
+          "carbohydrate": 7.7,
+          "protein": 0.7
+        }
+      },
+      {
+        "name": "Blueberries",
+        "characteristics": {
+          "calorie": 29,
+          "lipid": 0.4,
+          "carbohydrate": 7.4,
+          "protein": 0.7
+        }
+      },
+      {
+        "name": "Lemon",
+        "characteristics": {
+          "calorie": 29,
+          "lipid": 0.3,
+          "carbohydrate": 9.3,
+          "protein": 1.1
+        }
+      },
+      {
+        "name": "Water",
+        "characteristics": {
+          "calorie": 0,
+          "lipid": 0,
+          "carbohydrate": 0,
+          "protein": 0
+        }
+      },
+      {
+        "name": "Hamburger",
+        "characteristics": {
+          "calorie": 250,
+          "lipid": 12,
+          "carbohydrate": 31,
+          "protein": 12
+        }
+      },
+      {
+        "name": "Hot Dog",
+        "characteristics": {
+          "calorie": 151,
+          "lipid": 13,
+          "carbohydrate": 2.4,
+          "protein": 5.6
+        }
+      },
+      {
+        "name": "Tofu",
+        "characteristics": {
+          "calorie": 144,
+          "lipid": 8.5,
+          "carbohydrate": 3.9,
+          "protein": 15
+        }
+      },
+      {
+        "name": "Ginger",
+        "characteristics": {
+          "calorie": 80,
+          "lipid": 0.8,
+          "carbohydrate": 18,
+          "protein": 2
+        }
+      },
+      {
+        "name": "Cherry",
+        "characteristics": {
+          "calorie": 50,
+          "lipid": 0.3,
+          "carbohydrate": 12,
+          "protein": 1
+        }
+      },
+      {
+        "name": "Pear",
+        "characteristics": {
+          "calorie": 57,
+          "lipid": 0.1,
+          "carbohydrate": 15,
+          "protein": 0.5
+        }
+      },
+      {
+        "name": "Pineapple",
+        "characteristics": {
+          "calorie": 50,
+          "lipid": 0.1,
+          "carbohydrate": 13,
+          "protein": 0.5
+        }
+      },
+      {
+        "name": "Almonds",
+        "characteristics": {
+          "calorie": 576,
+          "lipid": 49.9,
+          "carbohydrate": 21,
+          "protein": 21
+        }
+      },
+      {
+        "name": "Peanuts",
+        "characteristics": {
+          "calorie": 567,
+          "lipid": 49.2,
+          "carbohydrate": 16,
+          "protein": 26
+        }
+      },
+      {
+        "name": "Cabbage",
+        "characteristics": {
+          "calorie": 25,
+          "lipid": 0.2,
+          "carbohydrate": 6,
+          "protein": 1.3
+        }
+      },
+      {
+        "name": "Cauliflower",
+        "characteristics": {
+          "calorie": 25,
+          "lipid": 0.3,
+          "carbohydrate": 5,
+          "protein": 1.9
+        }
+      },
+      {
+        "name": "Beef",
+        "characteristics": {
+          "calorie": 250,
+          "lipid": 17,
+          "carbohydrate": 0,
+          "protein": 26
+        }
+      },
+      {
+        "name": "Pork",
+        "characteristics": {
+          "calorie": 143,
+          "lipid": 4.9,
+          "carbohydrate": 0,
+          "protein": 22
+        }
+      },
+      {
+        "name": "Lamb",
+        "characteristics": {
+          "calorie": 294,
+          "lipid": 20,
+          "carbohydrate": 0,
+          "protein": 25
+        }
+      },
+      {
+        "name": "Shrimp",
+        "characteristics": {
+          "calorie": 99,
+          "lipid": 1.8,
+          "carbohydrate": 0.8,
+          "protein": 20
+        }
+      },
+      {
+        "name": "Scallops",
+        "characteristics": {
+          "calorie": 69,
+          "lipid": 0.9,
+          "carbohydrate": 1.8,
+          "protein": 15
+        }
+      },
+      {
+        "name": "Pine Nuts",
+        "characteristics": {
+          "calorie": 673,
+          "lipid": 68,
+          "carbohydrate": 14,
+          "protein": 13
+        }
+      },
+      {
+        "name": "Cashews",
+        "characteristics": {
+          "calorie": 553,
+          "lipid": 44,
+          "carbohydrate": 30,
+          "protein": 18
+        }
+      },
+      {
+        "name": "Asparagus",
+        "characteristics": {
+          "calorie": 20,
+          "lipid": 0.2,
+          "carbohydrate": 3.7,
+          "protein": 2.2
+        }
+      },
+      {
+        "name": "Eggplant",
+        "characteristics": {
+          "calorie": 25,
+          "lipid": 0.2,
+          "carbohydrate": 6,
+          "protein": 1
+        }
+      },
+      {
+        "name": "Zucchini",
+        "characteristics": {
+          "calorie": 17,
+          "lipid": 0.4,
+          "carbohydrate": 3.1,
+          "protein": 1.2
+        }
+      },
+      {
+        "name": "Gouda Cheese",
+        "characteristics": {
+          "calorie": 356,
+          "lipid": 27,
+          "carbohydrate": 0.1,
+          "protein": 25
+        }
+      },
+      {
+        "name": "Ham",
+        "characteristics": {
+          "calorie": 120,
+          "lipid": 3.2,
+          "carbohydrate": 0.5,
+          "protein": 20
+        }
+      },
+      {
+        "name": "Lobster",
+        "characteristics": {
+          "calorie": 89,
+          "lipid": 1.3,
+          "carbohydrate":2.1,
+          "protein": 20
+        }
+    },
+    {
+        "name": "Tuna",
+        "characteristics": {
+          "calorie": 184,
+          "lipid": 0.8,
+          "carbohydrate": 0,
+          "protein": 40
+        }
+      },
+      {
+        "name": "Cantaloupe",
+        "characteristics": {
+          "calorie": 64,
+          "lipid": 0.2,
+          "carbohydrate": 16,
+          "protein": 1.6
+        }
+      },
+      {
+        "name": "Pomegranate",
+        "characteristics": {
+          "calorie": 83,
+          "lipid": 1.2,
+          "carbohydrate": 18.7,
+          "protein": 1.7
+        }
+      },
+      {
+        "name": "Artichoke",
+        "characteristics": {
+          "calorie": 47,
+          "lipid": 0.2,
+          "carbohydrate": 10.5,
+          "protein": 3.3
+        }
+      },
+      {
+        "name": "Oatmeal",
+        "characteristics": {
+          "calorie": 71,
+          "lipid": 1.4,
+          "carbohydrate": 12,
+          "protein": 2.5
+        }
+      },
+      {
+        "name": "Kiwi",
+        "characteristics": {
+          "calorie": 61,
+          "lipid": 0.5,
+          "carbohydrate": 15,
+          "protein": 1.1
+        }
+      },
+      {
+        "name": "Peach",
+        "characteristics": {
+          "calorie": 39,
+          "lipid": 0.3,
+          "carbohydrate": 9.5,
+          "protein": 0.9
+        }
+      },
+      {
+        "name": "Mango",
+        "characteristics": {
+          "calorie": 60,
+          "lipid": 0.4,
+          "carbohydrate": 15,
+          "protein": 0.8
+        }
+      },
+      {
+        "name": "Pineapple",
+        "characteristics": {
+          "calorie": 50,
+          "lipid": 0.1,
+          "carbohydrate": 13,
+          "protein": 0.5
+        }
+      },
+      {
+        "name": "Almonds",
+        "characteristics": {
+          "calorie": 576,
+          "lipid": 49.9,
+          "carbohydrate": 21,
+          "protein": 21
+        }
+      },
+      {
+        "name": "Peanuts",
+        "characteristics": {
+          "calorie": 567,
+          "lipid": 49.2,
+          "carbohydrate": 16,
+          "protein": 26
+        }
+      },
+      {
+        "name": "Cabbage",
+        "characteristics": {
+          "calorie": 25,
+          "lipid": 0.2,
+          "carbohydrate": 6,
+          "protein": 1.3
+        }
+      },
+      {
+        "name": "Cauliflower",
+        "characteristics": {
+          "calorie": 25,
+          "lipid": 0.3,
+          "carbohydrate": 5,
+          "protein": 1.9
+        }
+      },
+      {
+        "name": "Beef",
+        "characteristics": {
+          "calorie": 250,
+          "lipid": 17,
+          "carbohydrate": 0,
+          "protein": 26
+        }
+      },
+      {
+        "name": "Pork",
+        "characteristics": {
+          "calorie": 143,
+          "lipid": 4.9,
+          "carbohydrate": 0,
+          "protein": 22
+        }
+      },
+      {
+        "name": "Lamb",
+        "characteristics": {
+          "calorie": 294,
+          "lipid": 20,
+          "carbohydrate": 0,
+          "protein": 25
+        }
+      },
+      {
+        "name": "Shrimp",
+        "characteristics": {
+          "calorie": 99,
+          "lipid": 1.8,
+          "carbohydrate": 0.8,
+          "protein": 20
+        }
+      },
+      {
+        "name": "Scallops",
+        "characteristics": {
+          "calorie": 69,
+          "lipid": 0.9,
+          "carbohydrate": 1.8,
+          "protein": 15
+        }
+      },
+      {
+        "name": "Pine Nuts",
+        "characteristics": {
+          "calorie": 673,
+          "lipid": 68,
+          "carbohydrate": 14,
+          "protein": 13
+        }
+      },
+      {
+        "name": "Cashews",
+        "characteristics": {
+          "calorie": 553,
+          "lipid": 44,
+          "carbohydrate": 30,
+          "protein": 18
+        }
+      },
+      {
+        "name": "Asparagus",
+        "characteristics": {
+          "calorie": 20,
+          "lipid": 0.2,
+          "carbohydrate": 3.7,
+          "protein": 2.2
+        }
+      },
+      {
+        "name": "Eggplant",
+        "characteristics": {
+          "calorie": 25,
+          "lipid": 0.2,
+          "carbohydrate": 6,
+          "protein": 1
+        }
+      },
+      {
+        "name": "Zucchini",
+        "characteristics": {
+          "calorie": 17,
+          "lipid": 0.4,
+          "carbohydrate": 3.1,
+          "protein": 1.2
+        }
+      },
+      {
+        "name": "Gouda Cheese",
+        "characteristics": {
+          "calorie": 356,
+          "lipid": 27,
+          "carbohydrate": 0.1,
+          "protein": 25
+        }
+      },
+      {
+        "name": "Ham",
+        "characteristics": {
+          "calorie": 120,
+          "lipid": 3.2,
+          "carbohydrate": 0.5,
+          "protein": 20
+        }
+      },
+      {
+        "name": "Lobster",
+        "characteristics": {
+          "calorie": 89,
+          "lipid": 1.3,
+          "carbohydrate": 2.1,
+          "protein": 20
+        }
+      },
+      {
+        "name": "Cherries",
+        "characteristics": {
+          "calorie": 50,
+          "lipid": 0.3,
+          "carbohydrate": 12,
+          "protein": 1
+        }
+      },
+      {
+        "name": "Pear",
+        "characteristics": {
+          "calorie": 57,
+          "lipid": 0.1,
+          "carbohydrate": 15,
+          "protein": 0.5
+        }
+      },
+      {
+        "name": "Raspberries",
+        "characteristics": {
+          "calorie": 52,
+          "lipid": 0.7,
+          "carbohydrate": 11,
+          "protein": 1.5
+        }
+      },
+      {
+        "name": "Apricot",
+        "characteristics": {
+          "calorie": 48,
+          "lipid": 0.4,
+          "carbohydrate": 12,
+          "protein": 1
+        }
+      },
+      {
+        "name": "Blackberries",
+        "characteristics": {
+          "calorie": 43,
+          "lipid": 0.5,
+          "carbohydrate": 9,
+          "protein": 2
+        }
+      },
+      {
+        "name": "Spinach",
+        "characteristics": {
+          "calorie": 23,
+          "lipid": 0.4,
+          "carbohydrate": 3.6,
+          "protein": 2.9
+        }
+      },
+      {
+        "name": "Quinoa",
+        "characteristics": {
+          "calorie": 120,
+          "lipid": 1.9,
+          "carbohydrate": 21,
+          "protein": 4.1
+        }
+      },
+      {
+        "name": "Peanut Butter",
+        "characteristics": {
+          "calorie": 588,
+          "lipid": 50,
+          "carbohydrate": 20,
+          "protein": 25
+        }
+      },
+      {
+        "name": "Olive Oil",
+        "characteristics": {
+          "calorie": 884,
+          "lipid": 100,
+          "carbohydrate": 0,
+          "protein": 0
+        }
+      },
+      {
+        "name": "Coconut",
+        "characteristics": {
+          "calorie": 354,
+          "lipid": 33.5,
+          "carbohydrate": 9,
+          "protein": 3.3
+        }
+      },
+      {
+        "name": "Mushrooms",
+        "characteristics": {
+          "calorie": 22,
+          "lipid": 0.3,
+          "carbohydrate": 3.3,
+          "protein": 3.1
+        }
+      },
+      {
+        "name": "Honey",
+        "characteristics": {
+          "calorie": 304,
+          "lipid": 0,
+          "carbohydrate": 82,
+          "protein": 0.3
+        }
+      },
+      {
+        "name": "Garlic",
+        "characteristics": {
+          "calorie": 149,
+          "lipid": 0.5,
+          "carbohydrate": 33,
+          "protein": 6
+        }
+      },
+      {
+        "name": "Onion",
+        "characteristics": {
+          "calorie": 40,
+          "lipid": 0.1,
+          "carbohydrate": 9.5,
+          "protein": 1.1
+        }
+      },
+      {
+        "name": "Grapeseed Oil",
+        "characteristics": {
+          "calorie": 884,
+          "lipid": 100,
+          "carbohydrate": 0,
+          "protein": 0
+        }
+      },
+      {
+        "name": "Turmeric",
+        "characteristics": {
+          "calorie": 312,
+          "lipid": 3.3,
+          "carbohydrate": 67,
+          "protein": 9
+        }
+      },
+      {
+        "name": "Red Pepper",
+        "characteristics": {
+          "calorie": 31,
+          "lipid": 0.3,
+          "carbohydrate": 6,
+          "protein": 1.2
+        }
+      },
+      {
+        "name": "Green Tea",
+        "characteristics": {
+          "calorie": 2,
+          "lipid": 0,
+          "carbohydrate": 0.3,
+          "protein": 0.1
+        }
+      },
+      {
+        "name": "Chia Seeds",
+        "characteristics": {
+          "calorie": 486,
+          "lipid": 30.7,
+          "carbohydrate": 42.1,
+          "protein": 16.5
+        }
+      },
+      {
+        "name": "Flax Seeds",
+        "characteristics": {
+          "calorie": 534,
+          "lipid": 42.2,
+          "carbohydrate": 28.9,
+          "protein": 18.3
+        }
+      }
+      ,
+        {
+          "name": "Kale",
+          "characteristics": {
+            "calorie": 35,
+            "lipid": 0.5,
+            "carbohydrate": 7,
+            "protein": 2.9
+          }
+        },
+        {
+          "name": "Pineapple",
+          "characteristics": {
+            "calorie": 50,
+            "lipid": 0.1,
+            "carbohydrate": 13,
+            "protein": 0.5
+          }
+        },
+        {
+          "name": "Sweet Potato",
+          "characteristics": {
+            "calorie": 86,
+            "lipid": 0.2,
+            "carbohydrate": 20,
+            "protein": 1.6
+          }
+        },
+        {
+          "name": "Cantaloupe",
+          "characteristics": {
+            "calorie": 64,
+            "lipid": 0.2,
+            "carbohydrate": 16,
+            "protein": 1.6
+          }
+        },
+        {
+          "name": "Mushrooms",
+          "characteristics": {
+            "calorie": 22,
+            "lipid": 0.3,
+            "carbohydrate": 3.3,
+            "protein": 3.1
+          }
+        },
+        {
+          "name": "Cilantro",
+          "characteristics": {
+            "calorie": 23,
+            "lipid": 0.5,
+            "carbohydrate": 3.7,
+            "protein": 2.1
+          }
+        },
+        {
+          "name": "Cranberries",
+          "characteristics": {
+            "calorie": 46,
+            "lipid": 0.1,
+            "carbohydrate": 12,
+            "protein": 0.4
+          }
+        },
+        {
+          "name": "Papaya",
+          "characteristics": {
+            "calorie": 59,
+            "lipid": 0.4,
+            "carbohydrate": 15,
+            "protein": 0.6
+          }
+        },
+        {
+          "name": "Tofu",
+          "characteristics": {
+            "calorie": 144,
+            "lipid": 8.5,
+            "carbohydrate": 3.9,
+            "protein": 15
+          }
+        },
+        {
+          "name": "Beets",
+          "characteristics": {
+            "calorie": 43,
+            "lipid": 0.2,
+            "carbohydrate": 10,
+            "protein": 1.6
+          }
+        }
+      
+      
+  ]
+}
+
+
+  
